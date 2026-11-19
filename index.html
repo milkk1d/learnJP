@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>learnJP · Hiragana y katakana</title>
+  <meta name="description" content="Aprende hiragana y katakana: tablas con pronunciación, práctica con repaso espaciado y progreso guardado en tu dispositivo.">
+  <meta name="theme-color" content="#f6f1e7" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#16140f" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23c8402a'/%3E%3Ctext x='32' y='46' font-size='38' text-anchor='middle' fill='%23fff' font-family='sans-serif'%3E%E3%81%82%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@500;700&family=Nunito+Sans:opsz,wght@6..12,400;6..12,600;6..12,800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">あ</span>
+      <span class="brand-name">learnJP</span>
+    </div>
+    <nav class="tabs" role="tablist" aria-label="Secciones">
+      <button role="tab" id="tab-tablas" aria-controls="view-tablas" data-view="tablas">Tablas</button>
+      <button role="tab" id="tab-practicar" aria-controls="view-practicar" data-view="practicar">Practicar</button>
+      <button role="tab" id="tab-progreso" aria-controls="view-progreso" data-view="progreso">Progreso</button>
+    </nav>
+  </header>
+
+  <main>
+    <!-- TABLAS -->
+    <section id="view-tablas" class="view" role="tabpanel" aria-labelledby="tab-tablas">
+      <div class="view-head">
+        <div>
+          <h1>Tablas de kana</h1>
+          <p class="muted">Toca un carácter para escucharlo. La barrita de color indica cuánto lo dominas.</p>
+        </div>
+        <div class="segmented" role="radiogroup" aria-label="Sistema de escritura" data-bind="tableScript"></div>
+      </div>
+      <div id="tables"></div>
+    </section>
+
+    <!-- PRACTICAR -->
+    <section id="view-practicar" class="view" role="tabpanel" aria-labelledby="tab-practicar" hidden>
+      <div id="setup">
+        <div class="view-head">
+          <div>
+            <h1>Practicar</h1>
+            <p class="muted">Los caracteres que más te cuestan aparecen más seguido.</p>
+          </div>
+        </div>
+
+        <div class="panel">
+          <h2>Sistema</h2>
+          <div class="segmented" role="radiogroup" aria-label="Sistema a practicar" data-bind="quizScript"></div>
+
+          <h2>Filas</h2>
+          <div class="row-picker" id="row-picker"></div>
+          <div class="row-actions">
+            <button class="link" data-rows="basic">Solo básicos</button>
+            <button class="link" data-rows="all">Todo</button>
+            <button class="link" data-rows="none">Ninguna</button>
+          </div>
+
+          <h2>Modo</h2>
+          <div class="modes" role="radiogroup" aria-label="Modo de práctica" id="modes"></div>
+
+          <label class="toggle">
+            <input type="checkbox" id="auto-speak">
+            <span>Pronunciar al responder</span>
+          </label>
+
+          <p class="setup-count muted" id="setup-count" aria-live="polite"></p>
+          <button class="primary" id="start">Empezar</button>
+        </div>
+      </div>
+
+      <div id="quiz" hidden>
+        <div class="quiz-bar">
+          <button class="link" id="stop">← Terminar</button>
+          <div class="score" aria-live="polite"><span id="score-ok">0</span> / <span id="score-total">0</span> · racha <span id="streak">0</span></div>
+        </div>
+        <div class="card" id="card">
+          <div class="prompt-hint muted" id="prompt-hint"></div>
+          <button class="prompt" id="prompt" aria-label="Escuchar"></button>
+          <div class="choices" id="choices"></div>
+          <form class="typed" id="typed" autocomplete="off">
+            <input id="typed-input" type="text" inputmode="latin" autocapitalize="off" autocorrect="off" spellcheck="false" placeholder="Escribe el romaji" aria-label="Respuesta en romaji">
+            <button class="primary" type="submit">Comprobar</button>
+          </form>
+          <div class="feedback" id="feedback" aria-live="assertive"></div>
+          <button class="primary next" id="next" hidden>Siguiente</button>
+        </div>
+        <p class="hint muted" id="keys-hint">Atajos: 1–4 para elegir, Enter para seguir.</p>
+      </div>
+    </section>
+
+    <!-- PROGRESO -->
+    <section id="view-progreso" class="view" role="tabpanel" aria-labelledby="tab-progreso" hidden>
+      <div class="view-head">
+        <div>
+          <h1>Tu progreso</h1>
+          <p class="muted">Se guarda solo en este dispositivo.</p>
+        </div>
+      </div>
+      <div id="progress"></div>
+      <div class="legend">
+        <span><i class="m0"></i>Nuevo</span>
+        <span><i class="m1"></i>Aprendiendo</span>
+        <span><i class="m2"></i>Casi</span>
+        <span><i class="m3"></i>Dominado</span>
+      </div>
+      <button class="danger" id="reset">Borrar progreso</button>
+    </section>
+  </main>
+
+  <div class="toast" id="toast" role="status" hidden></div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
