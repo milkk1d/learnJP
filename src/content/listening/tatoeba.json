@@ -3237,6 +3237,132 @@
 "attribution": ""
 },
 {
+"id": "2664703",
+"jp": "あなたは奇跡を信じますか？",
+"reading": "あなたは[奇跡|き|せき]を[信|しん]じますか？",
+"es": [
+"¿Crees en los milagros?"
+],
+"en": [
+"Do you believe in miracles?"
+],
+"audioId": "162419",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2780838",
+"jp": "食中毒の経験はありますか？",
+"reading": "[食中毒|しょく|ちゅう|どく]の[経験|けい|けん]はありますか？",
+"es": [
+"¿Ha experimentado alguna vez una intoxicación alimentaria?"
+],
+"en": [
+"Have you ever had food poisoning?",
+"Have you ever gotten food poisoning?"
+],
+"audioId": "166451",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2947332",
+"jp": "明日の夜が待ち遠しいです。",
+"reading": "[明日|あす]の[夜|よる]が[待|ま]ち[遠|どお]しいです。",
+"es": [
+"Estoy ansioso por lo de mañana por la noche."
+],
+"en": [
+"I'm looking forward to tomorrow night."
+],
+"audioId": "172617",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2976594",
+"jp": "あなたは18歳以上ですか？",
+"reading": "あなたは[18|じゅうはっ][歳|さい][以上|い|じょう]ですか？",
+"es": [
+"¿Tienes más de 18 años?"
+],
+"en": [
+"Are you over 18?",
+"Are you over eighteen years old?"
+],
+"audioId": "177235",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2988140",
+"jp": "ここは入口ではありません。",
+"reading": "ここは[入口|いり|ぐち]ではありません。",
+"es": [
+"Esta no es la entrada."
+],
+"en": [
+"This is not the entrance.",
+"This isn't the entrance."
+],
+"audioId": "177710",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3440945",
+"jp": "留学の経験はおありですか？",
+"reading": "[留学|りゅう|がく]の[経験|けい|けん]はおありですか？",
+"es": [
+"¿Tiene experiencia estudiando en el extranjero?"
+],
+"en": [
+"Have you ever studied abroad?"
+],
+"audioId": "212766",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3495546",
+"jp": "ここに座ってもいいですか？",
+"reading": "ここに[座|すわ]ってもいいですか？",
+"es": [
+"¿Me puedo sentar aquí?",
+"¿Puedo sentarme aquí?"
+],
+"en": [
+"Can I sit here?",
+"May I sit here?"
+],
+"audioId": "538527",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3502092",
+"jp": "駅まで一緒に歩きませんか？",
+"reading": "[駅|えき]まで[一緒|いっ|しょ]に[歩|ある]きませんか？",
+"es": [
+"¿Caminamos juntos hasta la estación?"
+],
+"en": [
+"Let's walk to the station together.",
+"Would you like to walk to the station with me?"
+],
+"audioId": "215819",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
 "id": "148142",
 "jp": "今週末までには届くはずです。",
 "reading": "[今週|こん|しゅう][末|まつ]までには[届|とど]くはずです。",
@@ -3388,6 +3514,129 @@
 "This is the first time that I've heard that word."
 ],
 "audioId": "139998",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2666710",
+"jp": "チェックアウトお願いします。",
+"reading": "チェックアウトお[願|ねが]いします。",
+"es": [
+"Me gustaría hacer el check-out, por favor."
+],
+"en": [
+"I'd like to check out."
+],
+"audioId": "162446",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2774252",
+"jp": "中国人の友達は何人いますか？",
+"reading": "[中国人|ちゅう|ごく|じん]の[友達|とも|だち]は[何|なん][人|にん]いますか？",
+"es": [
+"¿Cuántos amigos chinos tienes?"
+],
+"en": [
+"How many Chinese friends do you have?"
+],
+"audioId": "166271",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2838403",
+"jp": "何かアレルギーはありますか？",
+"reading": "[何|なに]かアレルギーはありますか？",
+"es": [
+"¿Eres alérgica a algo?"
+],
+"en": [
+"Do you have any allergies?",
+"Are you allergic to anything?"
+],
+"audioId": "168203",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2948328",
+"jp": "一つ知りたいことがあります。",
+"reading": "[一|ひと]つ[知|し]りたいことがあります。",
+"es": [
+"Hay una cosa que quiero saber."
+],
+"en": [
+"I'm curious about one thing.",
+"There's one thing I'd like to know."
+],
+"audioId": "172661",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2996267",
+"jp": "マッチで遊んではいけません。",
+"reading": "マッチで[遊|あそ]んではいけません。",
+"es": [
+"¡No se juega con las cerillas!"
+],
+"en": [
+"You shouldn't play with matches."
+],
+"audioId": "178001",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3110695",
+"jp": "明日の朝まで待ってください。",
+"reading": "[明日|あした]の[朝|あさ]まで[待|ま]ってください。",
+"es": [
+"Espere hasta mañana por la mañana."
+],
+"en": [
+"Please wait until tomorrow morning."
+],
+"audioId": "182092",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3312291",
+"jp": "もう少し考えさせてください。",
+"reading": "もう[少|すこ]し[考|かんが]えさせてください。",
+"es": [
+"Déjame pensarlo un poco más."
+],
+"en": [
+"Please give me a little more time to think about it.",
+"Let me think about it a bit longer."
+],
+"audioId": "198467",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3332550",
+"jp": "明日は山登りに行ってきます。",
+"reading": "[明日|あす]は[山登|やま|のぼ]りに[行|い]ってきます。",
+"es": [
+"Mañana iré de escalada."
+],
+"en": [
+"I'm going to go mountain climbing tomorrow."
+],
+"audioId": "201487",
 "voice": "Mizu",
 "license": "CC BY-NC 4.0",
 "attribution": ""
@@ -3598,6 +3847,146 @@
 "attribution": ""
 },
 {
+"id": "2580967",
+"jp": "1つ分からないことがあります。",
+"reading": "[1|ひと]つ[分|わ]からないことがあります。",
+"es": [
+"Hay una cosa que no entiendo."
+],
+"en": [
+"There is one thing I don't understand.",
+"There's one thing I don't understand."
+],
+"audioId": "152153",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2869674",
+"jp": "一度に何冊まで借りられますか？",
+"reading": "[一|いち][度|ど]に[何|なん][冊|さつ]まで[借|か]りられますか？",
+"es": [
+"¿Cuántos libros puedo sacar a la vez?"
+],
+"en": [
+"How many books can I take out at one time?"
+],
+"audioId": "168902",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2982990",
+"jp": "最近あんまり食欲がないんです。",
+"reading": "[最近|さい|きん]あんまり[食欲|しょく|よく]がないんです。",
+"es": [
+"Últimamente no tengo mucho apetito."
+],
+"en": [
+"Recently, I don't have much appetite."
+],
+"audioId": "177398",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3050888",
+"jp": "兄は今オーストラリアにいます。",
+"reading": "[兄|あに]は[今|いま]オーストラリアにいます。",
+"es": [
+"Mi hermano ahora está en Australia."
+],
+"en": [
+"My brother is in Australia now.",
+"My brother's in Australia now."
+],
+"audioId": "180373",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3050889",
+"jp": "弟は今オーストラリアにいます。",
+"reading": "[弟|おとうと]は[今|いま]オーストラリアにいます。",
+"es": [
+"Mi hermano ahora está en Australia."
+],
+"en": [
+"My brother is in Australia now.",
+"My brother's in Australia now."
+],
+"audioId": "180374",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3159834",
+"jp": "このチラシもう1枚頂けますか？",
+"reading": "このチラシもう[1|いち][枚|まい][頂|いただ]けますか？",
+"es": [
+"¿Podría darme otra copia de este folleto?"
+],
+"en": [
+"May I have another brochure?",
+"Can I have another copy of this flyer?"
+],
+"audioId": "186657",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3416325",
+"jp": "ちょっとお手洗い行ってきます。",
+"reading": "ちょっとお[手洗|て|あら]い[行|い]ってきます。",
+"es": [
+"Voy un momento al servicio."
+],
+"en": [
+"I'm going to the restroom."
+],
+"audioId": "208887",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3423944",
+"jp": "すみません、出口はどこですか？",
+"reading": "すみません、[出口|で|ぐち]はどこですか？",
+"es": [
+"Disculpe, ¿dónde está la salida?"
+],
+"en": [
+"Excuse me, where's the exit?",
+"Excuse me, where is the exit?"
+],
+"audioId": "210461",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3486249",
+"jp": "お支払いはいかがなさいますか？",
+"reading": "お[支払|し|はら]いはいかがなさいますか？",
+"es": [
+"¿Cómo le gustaría pagar?"
+],
+"en": [
+"How would you like to pay?"
+],
+"audioId": "215317",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
 "id": "145155",
 "jp": "新聞によれば明日は雪だそうです。",
 "reading": "[新聞|しん|ぶん]によれば[明日|あす]は[雪|ゆき]だそうです。",
@@ -3739,6 +4128,117 @@
 "attribution": ""
 },
 {
+"id": "2580959",
+"jp": "昨日ボストンから帰ってきました。",
+"reading": "[昨日|さく|じつ]ボストンから[帰|かえ]ってきました。",
+"es": [
+"Ayer regresé de Boston."
+],
+"en": [
+"I returned home from Boston yesterday."
+],
+"audioId": "152152",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2664718",
+"jp": "「国連」は「国際連合」の略です。",
+"reading": "「[国連|こく|れん]」は「[国際|こく|さい][連合|れん|ごう]」の[略|りゃく]です。",
+"es": [
+"\"Naciones Unidas\" viene de \"Organización de las Naciones Unidas\"."
+],
+"en": [
+"UN stands for United Nations."
+],
+"audioId": "162421",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2678150",
+"jp": "人を名前で判断してはいけません。",
+"reading": "[人|ひと]を[名前|な|まえ]で[判断|はん|だん]してはいけません。",
+"es": [
+"No se debe juzgar a las personas por el nombre.",
+"No debe juzgarse a una persona por el nombre."
+],
+"en": [
+"You should not judge people based on their name.",
+"You shouldn't judge a person based on his or her name."
+],
+"audioId": "162655",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2780837",
+"jp": "食中毒になったことはありますか？",
+"reading": "[食中毒|しょく|ちゅう|どく]になったことはありますか？",
+"es": [
+"¿Has tenido alguna vez una intoxicación alimenticia?"
+],
+"en": [
+"Have you ever had food poisoning?",
+"Have you ever gotten food poisoning?"
+],
+"audioId": "166450",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2869687",
+"jp": "パソコンが起動しなくなりました。",
+"reading": "パソコンが[起動|き|どう]しなくなりました。",
+"es": [
+"No me arranca el ordenador."
+],
+"en": [
+"My computer won't boot up.",
+"My computer no longer boots up."
+],
+"audioId": "168906",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3100420",
+"jp": "昨日はお会いできてよかったです。",
+"reading": "[昨日|さく|じつ]はお[会|あ]いできてよかったです。",
+"es": [
+"Me alegro de que pudiésemos vernos ayer."
+],
+"en": [
+"I'm glad I was able to meet you yesterday.",
+"I'm glad that I was able to meet you yesterday."
+],
+"audioId": "181845",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3560578",
+"jp": "赤ちゃんの名前は決まりましたか？",
+"reading": "[赤|あか]ちゃんの[名前|な|まえ]は[決|き]まりましたか？",
+"es": [
+"¿Ya habéis decidido el nombre del bebé?"
+],
+"en": [
+"Have you decided on a name for your baby?",
+"Have you chosen a name for your baby?"
+],
+"audioId": "217509",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
 "id": "78642",
 "jp": "来週の日曜日に遊びに来てください。",
 "reading": "[来週|らい|しゅう]の[日曜日|にち|よう|び]に[遊|あそ]びに[来|き]てください。",
@@ -3786,6 +4286,129 @@
 "attribution": ""
 },
 {
+"id": "2718488",
+"jp": "12月24日はクリスマスイブです。",
+"reading": "[12月|じゅうにがつ][24|にじゅうよっ][日|か]はクリスマスイブです。",
+"es": [
+"El 24 de diciembre es Nochebuena."
+],
+"en": [
+"December 24th is Christmas Eve."
+],
+"audioId": "164577",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2724969",
+"jp": "アメリカに行ったことはありますか？",
+"reading": "アメリカに[行|い]ったことはありますか？",
+"es": [
+"¿Has ido a América alguna vez?"
+],
+"en": [
+"Have you ever been to America?"
+],
+"audioId": "164856",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2772834",
+"jp": "ボストンでは何をなさったんですか？",
+"reading": "ボストンでは[何|なに]をなさったんですか？",
+"es": [
+"¿Qué hiciste en Boston?"
+],
+"en": [
+"What did you do in Boston?",
+"What were you doing in Boston?"
+],
+"audioId": "166200",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2790396",
+"jp": "ウサギはどうして耳が長いんですか？",
+"reading": "ウサギはどうして[耳|みみ]が[長|なが]いんですか？",
+"es": [
+"¿Por qué los conejos tienen orejas largas?"
+],
+"en": [
+"Why do rabbits have long ears?"
+],
+"audioId": "166664",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2948351",
+"jp": "この方法ならきっとうまくいきます。",
+"reading": "この[方法|ほう|ほう]ならきっとうまくいきます。",
+"es": [
+"Con este método, seguro que irá bien."
+],
+"en": [
+"This method is sure to work."
+],
+"audioId": "172665",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3050897",
+"jp": "3歳になったばかりの息子がいます。",
+"reading": "[3|さん][歳|さい]になったばかりの[息子|むす|こ]がいます。",
+"es": [
+"Tengo un hijo que acaba de cumplir tres años."
+],
+"en": [
+"I have a son who's just turned three.",
+"We have a son who's just turned three."
+],
+"audioId": "180377",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3597773",
+"jp": "すみません、今何時か分かりますか？",
+"reading": "すみません、[今|いま][何|なん][時|じ]か[分|わ]かりますか？",
+"es": [
+"Disculpe, ¿sabe usted la hora?"
+],
+"en": [
+"Excuse me, do you know what time it is?"
+],
+"audioId": "219150",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2786655",
+"jp": "いつでもオフィスに遊びに来てください。",
+"reading": "いつでもオフィスに[遊|あそ]びに[来|き]てください。",
+"es": [
+"Pásate por mi oficina cuando quieras."
+],
+"en": [
+"Come to my office any time.",
+"Drop by my office any time."
+],
+"audioId": "166609",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
 "id": "2117568",
 "jp": "もし何か起こったら、すぐに電話をください。",
 "reading": "もし[何|なに]か[起|お]こったら、すぐに[電話|でん|わ]をください。",
@@ -3798,6 +4421,22 @@
 ],
 "audioId": "103418",
 "voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2664712",
+"jp": "UN は United Nations の略です。",
+"reading": "[UN|ユーエヌ] は [United|ユナイテッド] [Nations|ネイションズ] の[略|りゃく]です。",
+"es": [
+"U.N. son las siglas de Naciones Unidas.",
+"UN es la abreviatura de Naciones Unidas."
+],
+"en": [
+"UN stands for United Nations."
+],
+"audioId": "162420",
+"voice": "Mizu",
 "license": "CC BY-NC 4.0",
 "attribution": ""
 },
@@ -3830,6 +4469,60 @@
 "If you have any problems, please don't hesitate to come to me."
 ],
 "audioId": "12660",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2622377",
+"jp": "トムが正解。",
+"reading": "トムが[正解|せい|かい]。",
+"es": [],
+"en": [
+"Tom is correct.",
+"Tom's correct."
+],
+"audioId": "152822",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2626291",
+"jp": "トムが最強。",
+"reading": "トムが[最強|さい|きょう]。",
+"es": [],
+"en": [
+"Tom is the strongest."
+],
+"audioId": "152906",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2733628",
+"jp": "トムって誰？",
+"reading": "トムって[誰|だれ]？",
+"es": [],
+"en": [
+"Who's Tom?",
+"Who is Tom?"
+],
+"audioId": "165026",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3509647",
+"jp": "トムはどこ？",
+"reading": "トムはどこ？",
+"es": [],
+"en": [
+"Where's Tom?"
+],
+"audioId": "216123",
 "voice": "huizi99",
 "license": "CC BY-NC 4.0",
 "attribution": ""
@@ -3899,6 +4592,99 @@
 "I can see Tom."
 ],
 "audioId": "151911",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2581781",
+"jp": "トムは死んだ？",
+"reading": "トムは[死|し]んだ？",
+"es": [],
+"en": [
+"Did Tom die?"
+],
+"audioId": "152154",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2581788",
+"jp": "トムは勝った？",
+"reading": "トムは[勝|か]った？",
+"es": [],
+"en": [
+"Did Tom win?"
+],
+"audioId": "152156",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2638160",
+"jp": "トムは太った。",
+"reading": "トムは[太|ふと]った。",
+"es": [],
+"en": [
+"Tom got fatter.",
+"Tom got fat."
+],
+"audioId": "153098",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2739687",
+"jp": "トムは今幸せ？",
+"reading": "トムは[今|いま][幸|しあわ]せ？",
+"es": [],
+"en": [
+"Are you happy now, Tom?"
+],
+"audioId": "165294",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2739688",
+"jp": "トム、大丈夫？",
+"reading": "トム、[大丈夫|だい|じょう|ぶ]？",
+"es": [],
+"en": [
+"Are you OK, Tom?",
+"Tom, are you okay?"
+],
+"audioId": "165295",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3480424",
+"jp": "トムを呼んで。",
+"reading": "トムを[呼|よ]んで。",
+"es": [],
+"en": [
+"Call Tom."
+],
+"audioId": "215078",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3496705",
+"jp": "あれはトムの？",
+"reading": "あれはトムの？",
+"es": [],
+"en": [
+"Is that Tom's?"
+],
+"audioId": "215636",
 "voice": "huizi99",
 "license": "CC BY-NC 4.0",
 "attribution": ""
@@ -4123,6 +4909,231 @@
 "attribution": ""
 },
 {
+"id": "2622376",
+"jp": "トムは格好いい。",
+"reading": "トムは[格好|かっ|こう]いい。",
+"es": [],
+"en": [
+"Tom is cool."
+],
+"audioId": "152821",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2638146",
+"jp": "トムはデブった。",
+"reading": "トムはデブった。",
+"es": [],
+"en": [
+"Tom got fatter."
+],
+"audioId": "153097",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2659115",
+"jp": "トムはもう寝た。",
+"reading": "トムはもう[寝|ね]た。",
+"es": [],
+"en": [
+"Tom has already gone to bed.",
+"Tom has already fallen asleep."
+],
+"audioId": "161662",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2659331",
+"jp": "トムは歯が痛い。",
+"reading": "トムは[歯|は]が[痛|いた]い。",
+"es": [],
+"en": [
+"Tom has a toothache."
+],
+"audioId": "161665",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2692386",
+"jp": "トムは足が速い。",
+"reading": "トムは[足|あし]が[速|はや]い。",
+"es": [],
+"en": [
+"Tom is fast."
+],
+"audioId": "162835",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2694262",
+"jp": "トムは口が堅い。",
+"reading": "トムは[口|くち]が[堅|かた]い。",
+"es": [],
+"en": [
+"Tom can keep a secret."
+],
+"audioId": "162884",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2706861",
+"jp": "トムは台所だよ。",
+"reading": "トムは[台所|だい|どころ]だよ。",
+"es": [],
+"en": [
+"Tom is in the kitchen."
+],
+"audioId": "163121",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2706876",
+"jp": "トムは顔が広い。",
+"reading": "トムは[顔|かお]が[広|ひろ]い。",
+"es": [],
+"en": [
+"Tom knows a lot of people."
+],
+"audioId": "163123",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2946897",
+"jp": "トムは低血圧だ。",
+"reading": "トムは[低|てい][血圧|けつ|あつ]だ。",
+"es": [],
+"en": [
+"Tom has low blood pressure."
+],
+"audioId": "172602",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2946900",
+"jp": "トムは高血圧だ。",
+"reading": "トムは[高血圧|こう|けつ|あつ]だ。",
+"es": [],
+"en": [
+"Tom has high blood pressure."
+],
+"audioId": "172603",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2946902",
+"jp": "トムは声が低い。",
+"reading": "トムは[声|こえ]が[低|ひく]い。",
+"es": [],
+"en": [
+"Tom has a low-pitched voice."
+],
+"audioId": "172604",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3050886",
+"jp": "母は弁護士です。",
+"reading": "[母|はは]は[弁護士|べん|ご|し]です。",
+"es": [],
+"en": [
+"My mother is a lawyer."
+],
+"audioId": "180372",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3450161",
+"jp": "トムは喉が痛い。",
+"reading": "トムは[喉|のど]が[痛|いた]い。",
+"es": [],
+"en": [
+"Tom's got a sore throat.",
+"Tom has a sore throat."
+],
+"audioId": "214195",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3480422",
+"jp": "トムに電話して。",
+"reading": "トムに[電話|でん|わ]して。",
+"es": [],
+"en": [
+"Call Tom.",
+"Give Tom a call."
+],
+"audioId": "215077",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3507424",
+"jp": "トムは病気なの？",
+"reading": "トムは[病気|びょう|き]なの？",
+"es": [],
+"en": [
+"Is Tom sick?",
+"Is Tom ill?"
+],
+"audioId": "216043",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3555496",
+"jp": "トムは策略家だ。",
+"reading": "トムは[策略|さく|りゃく][家|か]だ。",
+"es": [],
+"en": [
+"Tom is a schemer."
+],
+"audioId": "217426",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3573587",
+"jp": "トムを見つけて。",
+"reading": "トムを[見|み]つけて。",
+"es": [],
+"en": [
+"Find Tom."
+],
+"audioId": "217999",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
 "id": "137485",
 "jp": "大人２枚ください。",
 "reading": "[大人|おとな][２|に][枚|まい]ください。",
@@ -4254,6 +5265,262 @@
 "Go see Tom."
 ],
 "audioId": "151957",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2622312",
+"jp": "トムが踊っている。",
+"reading": "トムが[踊|おど]っている。",
+"es": [],
+"en": [
+"Tom is dancing.",
+"Tom dances."
+],
+"audioId": "152818",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2622328",
+"jp": "トムが泣いている。",
+"reading": "トムが[泣|な]いている。",
+"es": [],
+"en": [
+"Tom is crying."
+],
+"audioId": "152819",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2622374",
+"jp": "トムは興味津々だ。",
+"reading": "トムは[興味津々|きょうみしんしん]だ。",
+"es": [],
+"en": [
+"Tom is curious."
+],
+"audioId": "152820",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2628402",
+"jp": "トムは寝ていない。",
+"reading": "トムは[寝|ね]ていない。",
+"es": [],
+"en": [
+"Tom isn't sleeping.",
+"Tom isn't asleep."
+],
+"audioId": "152922",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2670479",
+"jp": "今日は木曜日です。",
+"reading": "[今日|きょう]は[木曜日|もく|よう|び]です。",
+"es": [],
+"en": [
+"Today is Thursday."
+],
+"audioId": "162514",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2690762",
+"jp": "トムは髪を染めた。",
+"reading": "トムは[髪|かみ]を[染|そ]めた。",
+"es": [],
+"en": [
+"Tom dyed his hair."
+],
+"audioId": "162821",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2694269",
+"jp": "トムは忘れっぽい。",
+"reading": "トムは[忘|わす]れっぽい。",
+"es": [],
+"en": [
+"Tom is forgetful."
+],
+"audioId": "162885",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2700205",
+"jp": "トムは酔っていた。",
+"reading": "トムは[酔|よ]っていた。",
+"es": [],
+"en": [
+"Tom was drunk.",
+"Tom was plastered."
+],
+"audioId": "163009",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2706908",
+"jp": "トムは腹を立てた。",
+"reading": "トムは[腹|はら]を[立|た]てた。",
+"es": [],
+"en": [
+"Tom got angry.",
+"Tom got mad."
+],
+"audioId": "163126",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2715375",
+"jp": "本日は定休日です。",
+"reading": "[本日|ほん|じつ]は[定休|てい|きゅう][日|び]です。",
+"es": [],
+"en": [
+"We're closed today."
+],
+"audioId": "164482",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2728128",
+"jp": "トムは未婚だった。",
+"reading": "トムは[未婚|み|こん]だった。",
+"es": [],
+"en": [
+"Tom wasn't married.",
+"Tom was unmarried."
+],
+"audioId": "164901",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2740709",
+"jp": "トムは元気してる？",
+"reading": "トムは[元気|げん|き]してる？",
+"es": [],
+"en": [
+"Is Tom well?",
+"Is Tom doing okay?"
+],
+"audioId": "165315",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2860775",
+"jp": "トムが話している。",
+"reading": "トムが[話|はな]している。",
+"es": [],
+"en": [
+"Tom is talking."
+],
+"audioId": "168696",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3480363",
+"jp": "トムを連れてきて。",
+"reading": "トムを[連|つ]れてきて。",
+"es": [],
+"en": [
+"Get Tom."
+],
+"audioId": "215068",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3488464",
+"jp": "トム怒ってるかな？",
+"reading": "トム[怒|おこ]ってるかな？",
+"es": [],
+"en": [
+"Is Tom mad?"
+],
+"audioId": "215398",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3491616",
+"jp": "トムを探してきて。",
+"reading": "トムを[探|さが]してきて。",
+"es": [],
+"en": [
+"Go find Tom.",
+"Find Tom."
+],
+"audioId": "215506",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3507419",
+"jp": "トムっていいヤツ？",
+"reading": "トムっていいヤツ？",
+"es": [],
+"en": [
+"Is Tom good?",
+"Is Tom a good guy?"
+],
+"audioId": "216041",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3507466",
+"jp": "トムを見てごらん。",
+"reading": "トムを[見|み]てごらん。",
+"es": [],
+"en": [
+"Look at Tom."
+],
+"audioId": "216044",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3623893",
+"jp": "トムはホッとした。",
+"reading": "トムはホッとした。",
+"es": [],
+"en": [
+"Tom felt relieved.",
+"Tom was relieved."
+],
+"audioId": "220635",
 "voice": "huizi99",
 "license": "CC BY-NC 4.0",
 "attribution": ""
@@ -4444,6 +5711,168 @@
 "Are you fond of music?"
 ],
 "audioId": "140147",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2605209",
+"jp": "これは本当の話です。",
+"reading": "これは[本当|ほん|とう]の[話|はなし]です。",
+"es": [],
+"en": [
+"This is a true story."
+],
+"audioId": "152537",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2730929",
+"jp": "お皿が汚れています。",
+"reading": "お[皿|さら]が[汚|よご]れています。",
+"es": [],
+"en": [
+"The plate is dirty.",
+"The plates are dirty."
+],
+"audioId": "164926",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2739777",
+"jp": "お酒は飲まれますか？",
+"reading": "お[酒|さけ]は[飲|の]まれますか？",
+"es": [],
+"en": [
+"Do you drink alcohol?",
+"Do you drink?"
+],
+"audioId": "165300",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2803449",
+"jp": "右腕が上がりません。",
+"reading": "[右腕|みぎ|うで]が[上|あ]がりません。",
+"es": [],
+"en": [
+"I can't lift my right arm.",
+"I can't raise my right arm."
+],
+"audioId": "166951",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2834135",
+"jp": "お金を盗まれました。",
+"reading": "お[金|かね]を[盗|ぬす]まれました。",
+"es": [],
+"en": [
+"My money was stolen.",
+"My money has been stolen."
+],
+"audioId": "167920",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2944656",
+"jp": "トムは責任感が強い。",
+"reading": "トムは[責任|せき|にん][感|かん]が[強|つよ]い。",
+"es": [],
+"en": [
+"Tom has a strong sense of responsibility."
+],
+"audioId": "172560",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3044952",
+"jp": "好きな諺は何ですか？",
+"reading": "[好|す]きな[諺|ことわざ]は[何|なん]ですか？",
+"es": [],
+"en": [
+"What's your favorite proverb?"
+],
+"audioId": "180240",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3050904",
+"jp": "母は高校の先生です。",
+"reading": "[母|はは]は[高校|こう|こう]の[先生|せん|せい]です。",
+"es": [],
+"en": [
+"My mother is a high school teacher."
+],
+"audioId": "180379",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3374801",
+"jp": "うちは4人家族です。",
+"reading": "うちは[4|よ][人|にん][家族|か|ぞく]です。",
+"es": [],
+"en": [
+"There are four people in my family."
+],
+"audioId": "204184",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3400864",
+"jp": "趣味は音楽鑑賞です。",
+"reading": "[趣味|しゅ|み]は[音楽|おん|がく][鑑賞|かん|しょう]です。",
+"es": [],
+"en": [
+"My hobby is listening to music."
+],
+"audioId": "206076",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3452042",
+"jp": "旅行はお好きですか？",
+"reading": "[旅行|りょ|こう]はお[好|す]きですか？",
+"es": [],
+"en": [
+"Do you like to travel?",
+"Do you like trips?"
+],
+"audioId": "214216",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3452051",
+"jp": "お勘定お願いします。",
+"reading": "お[勘定|かん|じょう]お[願|ねが]いします。",
+"es": [],
+"en": [
+"Check, please.",
+"Give me the bill, please."
+],
+"audioId": "214217",
 "voice": "Mizu",
 "license": "CC BY-NC 4.0",
 "attribution": ""
@@ -5042,6 +6471,549 @@
 "attribution": ""
 },
 {
+"id": "2617867",
+"jp": "トムは大物を捕まえた。",
+"reading": "トムは[大物|おお|もの]を[捕|つか]まえた。",
+"es": [],
+"en": [
+"Tom caught a big fish."
+],
+"audioId": "152772",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2620395",
+"jp": "トムはハンサムな男だ。",
+"reading": "トムはハンサムな[男|おとこ]だ。",
+"es": [],
+"en": [
+"Tom is a handsome man.",
+"Tom is a handsome guy."
+],
+"audioId": "152807",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2620401",
+"jp": "トムは泳ぐのが上手い。",
+"reading": "トムは[泳|およ]ぐのが[上手|うま]い。",
+"es": [],
+"en": [
+"Tom is good at swimming.",
+"Tom is a good swimmer."
+],
+"audioId": "152808",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2628415",
+"jp": "トムはテレビを見てる。",
+"reading": "トムはテレビを[見|み]てる。",
+"es": [],
+"en": [
+"Tom is watching TV.",
+"Tom is watching television."
+],
+"audioId": "152923",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2628983",
+"jp": "トムは本を読んでいる。",
+"reading": "トムは[本|ほん]を[読|よ]んでいる。",
+"es": [],
+"en": [
+"Tom is reading a book.",
+"Tom is reading."
+],
+"audioId": "152950",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2631277",
+"jp": "トムには子供がいない。",
+"reading": "トムには[子供|こ|ども]がいない。",
+"es": [],
+"en": [
+"Tom doesn't have children.",
+"Tom has no children."
+],
+"audioId": "152992",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2638115",
+"jp": "トムが階段から落ちた。",
+"reading": "トムが[階段|かい|だん]から[落|お]ちた。",
+"es": [],
+"en": [
+"Tom fell down the stairs."
+],
+"audioId": "153093",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2638118",
+"jp": "トムは階段から落ちた。",
+"reading": "トムは[階段|かい|だん]から[落|お]ちた。",
+"es": [],
+"en": [
+"Tom fell down the stairs."
+],
+"audioId": "153094",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2638219",
+"jp": "トムは泥沼にはまった。",
+"reading": "トムは[泥沼|どろ|ぬま]にはまった。",
+"es": [],
+"en": [
+"Tom fell into the mud."
+],
+"audioId": "153099",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2659118",
+"jp": "トムはもう家に帰った。",
+"reading": "トムはもう[家|いえ]に[帰|かえ]った。",
+"es": [],
+"en": [
+"Tom has already gone home."
+],
+"audioId": "161663",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2659324",
+"jp": "トムはもう始めている。",
+"reading": "トムはもう[始|はじ]めている。",
+"es": [],
+"en": [
+"Tom has already begun.",
+"Tom has already started."
+],
+"audioId": "161664",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2697623",
+"jp": "トムは嘘をついている。",
+"reading": "トムは[嘘|うそ]をついている。",
+"es": [],
+"en": [
+"Tom is lying.",
+"Tom's lying."
+],
+"audioId": "162941",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2698363",
+"jp": "トムは政治に無関心だ。",
+"reading": "トムは[政治|せい|じ]に[無関心|む|かん|しん]だ。",
+"es": [],
+"en": [
+"Tom is not interested in politics.",
+"Tom isn't interested in politics."
+],
+"audioId": "162951",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2706851",
+"jp": "トムは全速力で走った。",
+"reading": "トムは[全速力|ぜん|そく|りょく]で[走|はし]った。",
+"es": [],
+"en": [
+"Tom ran at full speed.",
+"Tom ran as fast as he could."
+],
+"audioId": "163120",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2706879",
+"jp": "トムは扱いにくい男だ。",
+"reading": "トムは[扱|あつか]いにくい[男|おとこ]だ。",
+"es": [],
+"en": [
+"Tom is a hard man to deal with."
+],
+"audioId": "163124",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2720737",
+"jp": "トムは少し酔っていた。",
+"reading": "トムは[少|すこ]し[酔|よ]っていた。",
+"es": [],
+"en": [
+"Tom was a little drunk."
+],
+"audioId": "164722",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2733637",
+"jp": "トムはまだ怒っている。",
+"reading": "トムはまだ[怒|おこ]っている。",
+"es": [],
+"en": [
+"Tom is still angry."
+],
+"audioId": "165027",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2733639",
+"jp": "トムはラジオをつけた。",
+"reading": "トムはラジオをつけた。",
+"es": [],
+"en": [
+"Tom turned on the radio."
+],
+"audioId": "165028",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2733761",
+"jp": "トムは一人旅が好きだ。",
+"reading": "トムは[一人|ひとり][旅|たび]が[好|す]きだ。",
+"es": [],
+"en": [
+"Tom likes to travel alone.",
+"Tom likes to travel by himself."
+],
+"audioId": "165040",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2740700",
+"jp": "トムのこと愛してるの？",
+"reading": "トムのこと[愛|あい]してるの？",
+"es": [],
+"en": [
+"Do you love Tom?"
+],
+"audioId": "165313",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2750250",
+"jp": "他に質問はありますか？",
+"reading": "[他|ほか]に[質問|しつ|もん]はありますか？",
+"es": [],
+"en": [
+"Do you have any further questions?",
+"Do you have any more questions?"
+],
+"audioId": "165636",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2759287",
+"jp": "好きな動物は何ですか？",
+"reading": "[好|す]きな[動物|どう|ぶつ]は[何|なん]ですか？",
+"es": [],
+"en": [
+"What is your favorite animal?",
+"What's your favorite animal?"
+],
+"audioId": "165766",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2759288",
+"jp": "好きな野菜は何ですか？",
+"reading": "[好|す]きな[野菜|や|さい]は[何|なん]ですか？",
+"es": [],
+"en": [
+"What is your favorite vegetable?",
+"What vegetables do you like?"
+],
+"audioId": "165767",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2850571",
+"jp": "日本は今午前3時です。",
+"reading": "[日本|にっ|ぽん]は[今|いま][午前|ご|ぜん][3|さん][時|じ]です。",
+"es": [],
+"en": [
+"In Japan, it's now 3:00 a.m.",
+"In Japan, it's three in the morning now."
+],
+"audioId": "168381",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2858266",
+"jp": "トムは卵に塩をかけた。",
+"reading": "トムは[卵|たまご]に[塩|しお]をかけた。",
+"es": [],
+"en": [
+"Tom put some salt on his eggs.",
+"Tom salted his egg."
+],
+"audioId": "168659",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2858288",
+"jp": "電気をつけてください。",
+"reading": "[電気|でん|き]をつけてください。",
+"es": [],
+"en": [
+"Please turn on the light.",
+"Turn on the light, please."
+],
+"audioId": "168661",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2864454",
+"jp": "カメラをなくしました。",
+"reading": "カメラをなくしました。",
+"es": [],
+"en": [
+"I lost my camera."
+],
+"audioId": "168736",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2975859",
+"jp": "その必要はありません。",
+"reading": "その[必要|ひつ|よう]はありません。",
+"es": [],
+"en": [
+"That isn't necessary.",
+"That's not necessary."
+],
+"audioId": "177208",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3050892",
+"jp": "娘が6月に結婚します。",
+"reading": "[娘|むすめ]が[6月|ろくがつ]に[結婚|けっ|こん]します。",
+"es": [],
+"en": [
+"My daughter is getting married in June.",
+"My daughter will get married in June."
+],
+"audioId": "180375",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3050893",
+"jp": "娘は6月に結婚します。",
+"reading": "[娘|むすめ]は[6月|ろくがつ]に[結婚|けっ|こん]します。",
+"es": [],
+"en": [
+"My daughter is getting married in June.",
+"My daughter will get married in June."
+],
+"audioId": "180376",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3110746",
+"jp": "入場券はいくらですか？",
+"reading": "[入場|にゅう|じょう][券|けん]はいくらですか？",
+"es": [],
+"en": [
+"How much is the entrance fee?"
+],
+"audioId": "182096",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3277390",
+"jp": "すみません、通ります。",
+"reading": "すみません、[通|とお]ります。",
+"es": [],
+"en": [
+"Excuse me, I'm coming through."
+],
+"audioId": "195928",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3374804",
+"jp": "わが家は4人家族です。",
+"reading": "わが[家|や]は[4|よ][人|にん][家族|か|ぞく]です。",
+"es": [],
+"en": [
+"There are four people in my family."
+],
+"audioId": "204185",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3491551",
+"jp": "トムはため息をついた。",
+"reading": "トムはため[息|いき]をついた。",
+"es": [],
+"en": [
+"Tom sighed.",
+"Tom gave a sigh."
+],
+"audioId": "215504",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3491603",
+"jp": "トムを許してあげたら？",
+"reading": "トムを[許|ゆる]してあげたら？",
+"es": [],
+"en": [
+"Forgive Tom."
+],
+"audioId": "215505",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3559196",
+"jp": "トムに振られちゃった。",
+"reading": "トムに[振|ふ]られちゃった。",
+"es": [],
+"en": [
+"Tom left me.",
+"Tom dumped me."
+],
+"audioId": "217470",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3594831",
+"jp": "トムって運がいいよね。",
+"reading": "トムって[運|うん]がいいよね。",
+"es": [],
+"en": [
+"I think Tom is lucky.",
+"I think that Tom is lucky."
+],
+"audioId": "219019",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3594833",
+"jp": "トムって気分屋だよね。",
+"reading": "トムって[気分|き|ぶん][屋|や]だよね。",
+"es": [],
+"en": [
+"I think Tom is moody.",
+"I think that Tom is moody."
+],
+"audioId": "219020",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3594873",
+"jp": "トムは決して笑わない。",
+"reading": "トムは[決|けっ]して[笑|わら]わない。",
+"es": [],
+"en": [
+"Tom never laughs."
+],
+"audioId": "219021",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3616173",
+"jp": "トムはよく電話で話す。",
+"reading": "トムはよく[電話|でん|わ]で[話|はな]す。",
+"es": [],
+"en": [
+"Tom often talks on the phone."
+],
+"audioId": "219367",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
 "id": "78157",
 "jp": "旅行は楽しかったですか。",
 "reading": "[旅行|りょ|こう]は[楽|たの]しかったですか。",
@@ -5301,6 +7273,140 @@
 "attribution": ""
 },
 {
+"id": "2739786",
+"jp": "コーヒーはお好きですか？",
+"reading": "コーヒーはお[好|す]きですか？",
+"es": [],
+"en": [
+"Do you like coffee?"
+],
+"audioId": "165301",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2740891",
+"jp": "ボストンに住んでいます。",
+"reading": "ボストンに[住|す]んでいます。",
+"es": [],
+"en": [
+"I live in Boston.",
+"I'm living in Boston."
+],
+"audioId": "165327",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2912698",
+"jp": "全くおっしゃる通りです。",
+"reading": "[全|まった]くおっしゃる[通|とお]りです。",
+"es": [],
+"en": [
+"You are absolutely right.",
+"You're absolutely right!"
+],
+"audioId": "172188",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2921365",
+"jp": "話の続きは明日にします。",
+"reading": "[話|はなし]の[続|つづ]きは[明日|あした]にします。",
+"es": [],
+"en": [
+"I'll tell you the rest of the story tomorrow."
+],
+"audioId": "172268",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2984091",
+"jp": "海外旅行は初めてですか？",
+"reading": "[海外|かい|がい][旅行|りょ|こう]は[初|はじ]めてですか？",
+"es": [],
+"en": [
+"Is this your first trip abroad?"
+],
+"audioId": "177414",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3052786",
+"jp": "今朝無事に到着しました。",
+"reading": "[今朝|けさ][無事|ぶ|じ]に[到着|とう|ちゃく]しました。",
+"es": [],
+"en": [
+"I arrived safe and sound this morning."
+],
+"audioId": "180396",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3114646",
+"jp": "好きな食べ物は何ですか？",
+"reading": "[好|す]きな[食|た]べ[物|もの]は[何|なん]ですか？",
+"es": [],
+"en": [
+"What's your favorite food?",
+"What's your favourite food?"
+],
+"audioId": "182286",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3283009",
+"jp": "白ワインはお好きですか？",
+"reading": "[白|しろ]ワインはお[好|す]きですか？",
+"es": [],
+"en": [
+"Do you like white wine?"
+],
+"audioId": "196209",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3459009",
+"jp": "ご自由におとりください。",
+"reading": "ご[自由|じ|ゆう]におとりください。",
+"es": [],
+"en": [
+"You can have it for nothing."
+],
+"audioId": "214304",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3610726",
+"jp": "これ食べられるんですか？",
+"reading": "これ[食|た]べられるんですか？",
+"es": [],
+"en": [
+"Is this edible?",
+"Can you eat this?"
+],
+"audioId": "219340",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
 "id": "124620",
 "jp": "電話番号を教えてください。",
 "reading": "[電話|でん|わ][番号|ばん|ごう]を[教|おし]えてください。",
@@ -5479,6 +7585,101 @@
 "attribution": ""
 },
 {
+"id": "2726763",
+"jp": "昨日は何時に寝たんですか？",
+"reading": "[昨日|きのう]は[何時|なん|じ]に[寝|ね]たんですか？",
+"es": [],
+"en": [
+"What time did you go to sleep yesterday?",
+"What time did you go to bed yesterday?"
+],
+"audioId": "164883",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2869738",
+"jp": "これ試着してもいいですか？",
+"reading": "これ[試着|し|ちゃく]してもいいですか？",
+"es": [],
+"en": [
+"May I try this on?"
+],
+"audioId": "168907",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2921193",
+"jp": "今朝食が済んだところです。",
+"reading": "[今|いま][朝食|ちょう|しょく]が[済|す]んだところです。",
+"es": [],
+"en": [
+"I've just finished eating breakfast.",
+"I just finished breakfast."
+],
+"audioId": "172260",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2967648",
+"jp": "お役に立ててうれしいです。",
+"reading": "お[役|やく]に[立|た]ててうれしいです。",
+"es": [],
+"en": [
+"I'm glad I could be of service.",
+"I'm glad I could help you."
+],
+"audioId": "177106",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2976561",
+"jp": "ファイルが破損しています。",
+"reading": "ファイルが[破損|は|そん]しています。",
+"es": [],
+"en": [
+"The file is corrupt."
+],
+"audioId": "177232",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3196466",
+"jp": "シンガポールから来ました。",
+"reading": "シンガポールから[来|き]ました。",
+"es": [],
+"en": [
+"I'm from Singapore."
+],
+"audioId": "191544",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3574891",
+"jp": "お子さんはおいくつですか？",
+"reading": "お[子|こ]さんはおいくつですか？",
+"es": [],
+"en": [
+"How old are your children?",
+"How old is your child?"
+],
+"audioId": "218136",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
 "id": "172682",
 "jp": "今はあまり時間がないのです。",
 "reading": "[今|いま]はあまり[時間|じ|かん]がないのです。",
@@ -5640,6 +7841,166 @@
 "attribution": ""
 },
 {
+"id": "2596672",
+"jp": "フランス語で答えてください。",
+"reading": "フランス[語|ご]で[答|こた]えてください。",
+"es": [],
+"en": [
+"Please answer in French."
+],
+"audioId": "152458",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2665202",
+"jp": "ご指摘ありがとうございます。",
+"reading": "ご[指摘|し|てき]ありがとうございます。",
+"es": [],
+"en": [
+"Thanks for pointing this out.",
+"Thanks for pointing that out."
+],
+"audioId": "162427",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2708965",
+"jp": "献血をしたことはありますか？",
+"reading": "[献血|けん|けつ]をしたことはありますか？",
+"es": [],
+"en": [
+"Have you ever donated blood?"
+],
+"audioId": "163161",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2774230",
+"jp": "英語は読めますが話せません。",
+"reading": "[英語|えい|ご]は[読|よ]めますが[話|はな]せません。",
+"es": [],
+"en": [
+"I can read English, but I can't speak it."
+],
+"audioId": "166264",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2869671",
+"jp": "結婚式は土曜日に行われます。",
+"reading": "[結婚式|けっ|こん|しき]は[土曜日|ど|よう|び]に[行|おこな]われます。",
+"es": [],
+"en": [
+"The wedding will take place on Saturday."
+],
+"audioId": "168901",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2955244",
+"jp": "支払いにカードは使えますか？",
+"reading": "[支払|し|はら]いにカードは[使|つか]えますか？",
+"es": [],
+"en": [
+"Can I pay a credit card?",
+"Do you take plastic?"
+],
+"audioId": "174946",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2962367",
+"jp": "またお会いできて嬉しいです。",
+"reading": "またお[会|あ]いできて[嬉|うれ]しいです。",
+"es": [],
+"en": [
+"I'm glad to see you again.",
+"I'm happy to see you again."
+],
+"audioId": "177020",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3024539",
+"jp": "また後ほどお電話いたします。",
+"reading": "また[後|のち]ほどお[電話|でん|わ]いたします。",
+"es": [],
+"en": [
+"I'll call again later."
+],
+"audioId": "179961",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3050901",
+"jp": "大学時代の専攻は何でしたか？",
+"reading": "[大学|だい|がく][時代|じ|だい]の[専攻|せん|こう]は[何|なん]でしたか？",
+"es": [],
+"en": [
+"What did you major in at college?",
+"What was your major in college?"
+],
+"audioId": "180378",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3432685",
+"jp": "お返事ありがとうございます。",
+"reading": "お[返事|へん|じ]ありがとうございます。",
+"es": [],
+"en": [
+"Thank you for your reply."
+],
+"audioId": "211754",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3554825",
+"jp": "この近くに薬局はありますか？",
+"reading": "この[近|ちか]くに[薬局|やっ|きょく]はありますか？",
+"es": [],
+"en": [
+"Is there a pharmacy nearby?"
+],
+"audioId": "217414",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3596349",
+"jp": "すみません、宿題忘れました。",
+"reading": "すみません、[宿題|しゅく|だい][忘|わす]れました。",
+"es": [],
+"en": [
+"I'm sorry, I forgot to do my homework."
+],
+"audioId": "219032",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
 "id": "6018",
 "jp": "暇だったら、手伝ってください。",
 "reading": "[暇|ひま]だったら、[手伝|て|つだ]ってください。",
@@ -5789,6 +8150,88 @@
 "attribution": ""
 },
 {
+"id": "2690758",
+"jp": "やれるだけのことはやりました。",
+"reading": "やれるだけのことはやりました。",
+"es": [],
+"en": [
+"I did all I could."
+],
+"audioId": "162820",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2701316",
+"jp": "この辺りにATMはありますか？",
+"reading": "この[辺|あた]りに[ATM|エーティーエム]はありますか？",
+"es": [],
+"en": [
+"Is there an ATM around here?",
+"Is there an ATM close by?"
+],
+"audioId": "163039",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2748990",
+"jp": "この近くにATMはありますか？",
+"reading": "この[近|ちか]くに[ATM|エーティーエム]はありますか？",
+"es": [],
+"en": [
+"Is there an ATM around here?",
+"Is there an ATM close by?"
+],
+"audioId": "165620",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2774304",
+"jp": "カナダ人の友達は何人いますか？",
+"reading": "カナダ[人|じん]の[友達|とも|だち]は[何|なん][人|にん]いますか？",
+"es": [],
+"en": [
+"How many Canadian friends do you have?"
+],
+"audioId": "166273",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2858265",
+"jp": "本日の会議は中止になりました。",
+"reading": "[本日|ほん|じつ]の[会議|かい|ぎ]は[中止|ちゅう|し]になりました。",
+"es": [],
+"en": [
+"Today's meeting has been cancelled.",
+"Today's meeting has been canceled."
+],
+"audioId": "168658",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3559175",
+"jp": "もう一つ質問してもいいですか？",
+"reading": "もう[一|ひと]つ[質問|しつ|もん]してもいいですか？",
+"es": [],
+"en": [
+"Can I ask you one more question?",
+"Is it OK if I ask another question?"
+],
+"audioId": "217467",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
 "id": "80461",
 "jp": "明日は一日中家にいるつもりです。",
 "reading": "[明日|あした]は[一日中|いち|にち|じゅう][家|いえ]にいるつもりです。",
@@ -5925,6 +8368,167 @@
 "attribution": ""
 },
 {
+"id": "2596673",
+"jp": "フランス語は使わないでください。",
+"reading": "フランス[語|ご]は[使|つか]わないでください。",
+"es": [],
+"en": [
+"Please don't use French."
+],
+"audioId": "152459",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2739079",
+"jp": "ボストンってどこにあるんですか？",
+"reading": "ボストンってどこにあるんですか？",
+"es": [],
+"en": [
+"Where is Boston?",
+"Where's Boston?"
+],
+"audioId": "165272",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2739791",
+"jp": "インドネシア料理はお好きですか？",
+"reading": "インドネシア[料理|りょう|り]はお[好|す]きですか？",
+"es": [],
+"en": [
+"Do you like Indonesian food?"
+],
+"audioId": "165302",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2994065",
+"jp": "この物語は実話に基づいています。",
+"reading": "この[物語|もの|がたり]は[実話|じつ|わ]に[基|もと]づいています。",
+"es": [],
+"en": [
+"This story is based on a true story."
+],
+"audioId": "177881",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3052946",
+"jp": "焼きたてのパンの匂いが好きです。",
+"reading": "[焼|や]きたてのパンの[匂|にお]いが[好|す]きです。",
+"es": [],
+"en": [
+"I like the smell of fresh bread.",
+"I like the smell of freshly-baked bread."
+],
+"audioId": "180402",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3116594",
+"jp": "先週30歳の誕生日を迎えました。",
+"reading": "[先週|せん|しゅう][30|さんじゅっ][歳|さい]の[誕生|たん|じょう][日|び]を[迎|むか]えました。",
+"es": [],
+"en": [
+"I had my thirtieth birthday last week."
+],
+"audioId": "182377",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3190694",
+"jp": "お仕事は何をなさってるんですか？",
+"reading": "お[仕事|し|ごと]は[何|なに]をなさってるんですか？",
+"es": [],
+"en": [
+"What's your job?",
+"What line of work are you in?"
+],
+"audioId": "191438",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3281203",
+"jp": "こちらにサインをいただけますか？",
+"reading": "こちらにサインをいただけますか？",
+"es": [],
+"en": [
+"Could you sign here, please?"
+],
+"audioId": "196022",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3332582",
+"jp": "富士山に登ったことはありますか？",
+"reading": "[富士山|ふ|じ|さん]に[登|のぼ]ったことはありますか？",
+"es": [],
+"en": [
+"Have you ever climbed Mt. Fuji?",
+"Have you ever climbed up Mt. Fuji?"
+],
+"audioId": "201488",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3363979",
+"jp": "チケットはどこで買えるんですか？",
+"reading": "チケットはどこで[買|か]えるんですか？",
+"es": [],
+"en": [
+"Where can I buy a ticket?",
+"Where can we buy tickets?"
+],
+"audioId": "203555",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3451765",
+"jp": "姉は毎日ジョギングをしています。",
+"reading": "[姉|あね]は[毎日|まい|にち]ジョギングをしています。",
+"es": [],
+"en": [
+"My older sister goes jogging every day."
+],
+"audioId": "214213",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3559550",
+"jp": "こちらの用紙に記入してください。",
+"reading": "こちらの[用紙|よう|し]に[記入|き|にゅう]してください。",
+"es": [],
+"en": [
+"Please fill out this form."
+],
+"audioId": "217476",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
 "id": "203582",
 "jp": "たった今仕事が終わったところです。",
 "reading": "たった[今|いま][仕事|し|ごと]が[終|お]わったところです。",
@@ -6015,6 +8619,177 @@
 "What's your father do?"
 ],
 "audioId": "140630",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2696216",
+"jp": "フランス語の文法に苦戦しています。",
+"reading": "フランス[語|ご]の[文法|ぶん|ぽう]に[苦戦|く|せん]しています。",
+"es": [],
+"en": [
+"I'm struggling with French grammar."
+],
+"audioId": "162922",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2724971",
+"jp": "メキシコに行ったことはありますか？",
+"reading": "メキシコに[行|い]ったことはありますか？",
+"es": [],
+"en": [
+"Have you ever been to Mexico?"
+],
+"audioId": "164857",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2724975",
+"jp": "アフリカに行ったことはありますか？",
+"reading": "アフリカに[行|い]ったことはありますか？",
+"es": [],
+"en": [
+"Have you ever been to Africa?"
+],
+"audioId": "164858",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2780274",
+"jp": "ボストンに行ったことはありますか？",
+"reading": "ボストンに[行|い]ったことはありますか？",
+"es": [],
+"en": [
+"Have you ever been to Boston?",
+"Have you been to Boston?"
+],
+"audioId": "166420",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2786660",
+"jp": "いつでも事務所にいらしてください。",
+"reading": "いつでも[事務所|じ|む|しょ]にいらしてください。",
+"es": [],
+"en": [
+"Come to my office any time.",
+"Drop by my office any time."
+],
+"audioId": "166610",
+"voice": "huizi99",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2790210",
+"jp": "ここから一番近い銀行はどこですか？",
+"reading": "ここから[一番|いち|ばん][近|ちか]い[銀行|ぎん|こう]はどこですか？",
+"es": [],
+"en": [
+"Where is the nearest bank?"
+],
+"audioId": "166657",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "2907543",
+"jp": "この段落はどういう意味なんですか？",
+"reading": "この[段落|だん|らく]はどういう[意味|い|み]なんですか？",
+"es": [],
+"en": [
+"What does this paragraph mean?"
+],
+"audioId": "171893",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3010094",
+"jp": "子供のころは木登りが大好きでした。",
+"reading": "[子供|こ|ども]のころは[木|き][登|のぼ]りが[大好|だい|す]きでした。",
+"es": [],
+"en": [
+"I loved to climb trees when I was a kid."
+],
+"audioId": "178509",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3044964",
+"jp": "日本にも似たような諺はありますか？",
+"reading": "[日本|にっ|ぽん]にも[似|に]たような[諺|ことわざ]はありますか？",
+"es": [],
+"en": [
+"Is there a similar proverb in Japan?"
+],
+"audioId": "180241",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3114644",
+"jp": "どうしてそんなに疲れてるんですか？",
+"reading": "どうしてそんなに[疲|つか]れてるんですか？",
+"es": [],
+"en": [
+"Why are you so tired?"
+],
+"audioId": "182285",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3116010",
+"jp": "郵便局の営業時間は何時からですか？",
+"reading": "[郵便|ゆう|びん][局|きょく]の[営業|えい|ぎょう][時間|じ|かん]は[何|なん][時|じ]からですか？",
+"es": [],
+"en": [
+"When does the post office open?"
+],
+"audioId": "182368",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3440978",
+"jp": "お子さんは何人いらっしゃいますか？",
+"reading": "お[子|こ]さんは[何|なん][人|にん]いらっしゃいますか？",
+"es": [],
+"en": [
+"How many children do you have?"
+],
+"audioId": "212767",
+"voice": "Mizu",
+"license": "CC BY-NC 4.0",
+"attribution": ""
+},
+{
+"id": "3554835",
+"jp": "タクシーを呼んでいただけませんか？",
+"reading": "タクシーを[呼|よ]んでいただけませんか？",
+"es": [],
+"en": [
+"Can you call a taxi for me?"
+],
+"audioId": "217415",
 "voice": "Mizu",
 "license": "CC BY-NC 4.0",
 "attribution": ""
