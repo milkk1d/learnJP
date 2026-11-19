@@ -1,8 +1,15 @@
-# Archivos del sistema
+# Sistema
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# Configuración local
-.claude/
+# Dependencias y build
 node_modules/
+dist/
+dev-dist/
+*.tsbuildinfo
+
+# Configuración local y secretos
+.claude/
+.env
+.env.*

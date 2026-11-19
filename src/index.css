@@ -1,0 +1,125 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Papel cálido de día, tinta sumi de noche, acento bermellón (shu-iro). Valores RGB para Tailwind. */
+:root {
+  --bg: 246 241 231;
+  --surface: 255 253 248;
+  --sunken: 239 232 218;
+  --ink: 34 31 26;
+  --muted: 111 103 90;
+  --line: 224 215 197;
+  --accent: 200 64 42;
+  --accent-ink: 255 255 255;
+  --accent-soft: 246 220 212;
+  --good: 47 125 79;
+  --good-soft: 220 239 226;
+  --bad: 179 38 30;
+  --bad-soft: 247 220 217;
+  --warn: 196 132 28;
+  --info: 52 110 160;
+  --shadow: 60 45 20;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --bg: 22 20 15;
+    --surface: 32 29 23;
+    --sunken: 42 38 31;
+    --ink: 241 235 223;
+    --muted: 169 159 142;
+    --line: 56 51 42;
+    --accent: 232 102 76;
+    --accent-ink: 26 15 11;
+    --accent-soft: 61 38 32;
+    --good: 108 199 146;
+    --good-soft: 31 53 40;
+    --bad: 240 139 128;
+    --bad-soft: 60 34 32;
+    --warn: 217 153 58;
+    --info: 106 166 204;
+    --shadow: 0 0 0;
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme='dark'] {
+  --bg: 22 20 15;
+  --surface: 32 29 23;
+  --sunken: 42 38 31;
+  --ink: 241 235 223;
+  --muted: 169 159 142;
+  --line: 56 51 42;
+  --accent: 232 102 76;
+  --accent-ink: 26 15 11;
+  --accent-soft: 61 38 32;
+  --good: 108 199 146;
+  --good-soft: 31 53 40;
+  --bad: 240 139 128;
+  --bad-soft: 60 34 32;
+  --warn: 217 153 58;
+  --info: 106 166 204;
+  --shadow: 0 0 0;
+  color-scheme: dark;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  @apply bg-bg text-ink font-ui antialiased;
+  min-height: 100dvh;
+}
+
+:focus-visible {
+  outline: 3px solid rgb(var(--accent));
+  outline-offset: 2px;
+}
+
+ruby rt {
+  font-size: 0.5em;
+  color: rgb(var(--muted));
+  font-weight: 500;
+}
+
+@layer components {
+  .card {
+    @apply rounded-2xl border border-line bg-surface shadow-soft;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 font-bold transition active:scale-[0.98] disabled:opacity-45 disabled:active:scale-100;
+  }
+  .btn-primary {
+    @apply btn bg-accent text-accent-ink;
+  }
+  .btn-ghost {
+    @apply btn border border-line bg-surface text-ink;
+  }
+  .label {
+    @apply text-xs font-extrabold uppercase tracking-[0.08em] text-muted;
+  }
+  .chip {
+    @apply inline-flex items-baseline gap-1.5 rounded-full border border-line bg-surface px-3 py-1 text-sm font-semibold text-muted;
+  }
+  .chip-on {
+    @apply border-accent bg-accent text-accent-ink;
+  }
+  .input {
+    @apply w-full rounded-xl border border-line bg-sunken px-3 py-2 text-ink outline-none focus:border-accent;
+  }
+}
+
+@keyframes pop {
+  0% { transform: scale(1); }
+  40% { transform: scale(0.93); }
+  100% { transform: scale(1); }
+}
+.animate-pop { animation: pop 0.4s ease; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}
