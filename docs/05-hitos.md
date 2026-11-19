@@ -7,7 +7,7 @@ Un hito solo se marca **completado** cuando cada criterio se verificó (prueba a
 | 1 | App, base de datos, dashboard y navegación | ✅ completado (19 nov 2026) |
 | 2 | Sistema de escritura y primeras lecciones | 🟡 en curso: kana listo; faltan lecciones, vocabulario, kanji, diagnóstico |
 | 3 | Teleprompter completo (modos A–G) | ⬜ planificado |
-| 4 | Audio, pronunciación y grabaciones | ⬜ planificado |
+| 4 | Audio, pronunciación y grabaciones | 🟡 en curso: escucha con audio nativo lista; faltan grabación y pronunciación |
 | 5 | Diálogos interactivos | ⬜ planificado |
 | 6 | Repetición espaciada unificada y evaluaciones | ⬜ planificado (FSRS ya funciona para kana) |
 | 7 | Simulaciones de viaje | ⬜ planificado |
@@ -46,9 +46,16 @@ Un hito solo se marca **completado** cuando cada criterio se verificó (prueba a
 
 Criterios: modos A–G operativos; furigana/romaji/traducción activables; tamaño, velocidad, pausa, avanzar/retroceder, frase actual resaltada, repetición automática, pantalla completa, modo sin distracciones; atajos de teclado y gestos táctiles; velocidad de audio. Karaoke solo cuando haya alineación temporal fiable (con voz del sistema se usarán los eventos de límite de palabra si el navegador los entrega; si no, se indica).
 
-## Hito 4 — Audio, pronunciación y grabaciones
+## Hito 4 — Audio, pronunciación y grabaciones 🟡
 
-Criterios: permiso de micrófono con explicación; grabar y reproducir; comparar duración con el modelo; reconocimiento de voz opcional con consentimiento y aviso de límites; ejercicios de moras, vocales largas, っ y ん; dictados. Sin puntajes de pronunciación inventados.
+| # | Criterio | Estado |
+|---|---|---|
+| 4.1 | Banco de audio nativo con licencia libre, autor y enlace por frase | ✅ 693 frases de Tatoeba (voces nativas declaradas) |
+| 4.2 | Práctica "¿qué escuchaste?" con FSRS (habilidad escuchar), repetición y velocidad lenta | ✅ |
+| 4.3 | Explorador de frases con furigana, lectura en kana y traducción activables | ✅ |
+| 4.4 | Audios disponibles sin conexión después de escucharlos una vez | ✅ caché del service worker |
+
+Resto de criterios: permiso de micrófono con explicación; grabar y reproducir; comparar duración con el modelo; reconocimiento de voz opcional con consentimiento y aviso de límites; ejercicios de moras, vocales largas, っ y ん; dictados. Sin puntajes de pronunciación inventados.
 
 ## Hito 5 — Diálogos interactivos
 

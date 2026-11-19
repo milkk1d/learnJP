@@ -122,7 +122,12 @@ export function Home() {
         <Stat label="Vocabulario" value={d.byKind.vocab.seen} hint="disponible en hito 2" tone="muted" />
         <Stat label="Kanji" value={d.byKind.kanji.seen} hint="disponible en hito 2" tone="muted" />
         <Stat label="Gramática" value={d.byKind.grammar.seen} hint="disponible en hito 2" tone="muted" />
-        <Stat label="Comprensión auditiva" value={d.listening.answers ? `${d.listening.accuracy}%` : 'sin datos'} hint="hito 4" tone="muted" />
+        <Stat
+          label="Comprensión auditiva"
+          value={d.listening.answers ? `${d.listening.accuracy}%` : 'sin datos'}
+          hint={d.listening.answers ? `${d.listening.answers} respuestas de escucha` : 'practica en Escucha'}
+          tone={d.listening.answers ? undefined : 'muted'}
+        />
         <Stat label="Práctica oral" value={d.speaking.answers ? d.speaking.answers : 'sin datos'} hint="hito 4" tone="muted" />
       </div>
       <p className="-mt-3 mb-8 text-xs text-muted">

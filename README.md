@@ -10,9 +10,10 @@ App web instalable (PWA): funciona en iPhone y PC, sin conexión y sin cuentas. 
 |---|---|
 | Inicio: dashboard con métricas reales, cuenta regresiva y meta semanal | ✅ |
 | Hiragana y katakana: tablas con audio y práctica en 4 modos con repetición espaciada FSRS | ✅ |
+| Escucha: 693 frases grabadas por japoneses nativos (Tatoeba), práctica "¿qué escuchaste?" y explorador | ✅ |
 | Estadísticas: minutos por día, patrones de error, ítems difíciles | ✅ |
 | Configuración: viaje, itinerario editable, romaji/furigana/traducción, voz, tema, respaldo | ✅ |
-| Mi curso, kanji, vocabulario, gramática, teleprompter, pronunciación, escucha, conversaciones, simulador, repaso, exámenes | ⬜ planificado (cada sección dice en qué hito llega) |
+| Mi curso, kanji, vocabulario, gramática, teleprompter, pronunciación, conversaciones, simulador, repaso, exámenes | ⬜ planificado (cada sección dice en qué hito llega) |
 
 El plan completo está en [`docs/`](docs):
 
@@ -22,6 +23,7 @@ El plan completo está en [`docs/`](docs):
 4. [Calendario de estudio](docs/04-calendario.md)
 5. [Hitos y criterios de aceptación](docs/05-hitos.md)
 6. [Bitácora y pendientes](docs/PROGRESO.md)
+7. [Créditos y licencias de audio](docs/CREDITOS-AUDIO.md)
 
 ## Ejecutar en tu PC
 
@@ -63,4 +65,4 @@ React 18 · TypeScript · Vite · Tailwind CSS · Dexie (IndexedDB) · ts-fsrs �
 
 ## Licencia
 
-Código bajo MIT ([LICENSE](LICENSE)).
+Código bajo MIT ([LICENSE](LICENSE)). Los audios y frases de Tatoeba conservan sus licencias (CC BY / CC BY-NC / CC BY 2.0 FR): ver [créditos](docs/CREDITOS-AUDIO.md).

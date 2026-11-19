@@ -194,6 +194,23 @@ export function Settings() {
         </div>
       </Section>
 
+      <Section title="Créditos de audio" hint="Las grabaciones de japoneses nativos son contenido libre de otras personas. Gracias a ellas.">
+        <ul className="space-y-1.5 text-sm">
+          <li>
+            <b>Frases con audio nativo:</b>{' '}
+            <a className="text-accent underline" href="https://tatoeba.org" target="_blank" rel="noreferrer">
+              Tatoeba
+            </a>
+            . Voces de Mizu, huizi99 (CC BY-NC 4.0) y fal (CC BY 4.0), todos con japonés nativo declarado. Textos bajo CC BY 2.0 FR de sus autores. Cada frase
+            muestra su autor, licencia y enlace.
+          </li>
+          <li>
+            <b>Kana y resto de la app:</b> voz japonesa de tu dispositivo (síntesis), cuando no hay grabación nativa.
+          </li>
+          <li className="text-muted">Uso no comercial y educativo. Detalle en docs/CREDITOS-AUDIO.md del repositorio.</li>
+        </ul>
+      </Section>
+
       <Section title="Tus datos" hint="Todo se guarda solo en este dispositivo. Exporta un respaldo para pasarlo al otro (iPhone ↔ PC).">
         <div className="flex flex-wrap gap-2">
           <button className="btn-primary" onClick={download}>

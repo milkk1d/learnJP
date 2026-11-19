@@ -16,6 +16,7 @@ Para retomar el desarrollo en otra sesión: leer este archivo, luego [05-hitos.m
 | 19 nov 2026 | Repo público + GitHub Pages para publicar (el usuario debe cambiar la visibilidad). |
 | 19 nov 2026 | Diálogos guiados en la app + conversaciones abiertas con Claude en el chat (sin API por ahora). |
 | 19 nov 2026 | Solo voz del sistema (sin ElevenLabs). |
+| 19 nov 2026 | Usar todos los audios gratuitos que se encuentren → Tatoeba (nativos, CC BY/BY-NC). |
 
 ## Registro de funcionalidades pendientes
 
@@ -30,7 +31,9 @@ Para retomar el desarrollo en otra sesión: leer este archivo, luego [05-hitos.m
 | Teclado japonés (entrada IME) en ejercicios | 2–3 | Aceptar respuestas en kana además de romaji. |
 | Teleprompter A–G | 3 | |
 | Grabación, comparación, STT | 4 | Consentimiento explícito; sin puntajes inventados. |
-| Comprensión auditiva graduada y dictados | 4 | |
+| Dictados y velocidad graduada | 4 | La práctica de escucha con audio nativo ya existe. |
+| Audio nativo de palabras (Lingua Libre/Commons) | 4 | La API de Commons rechaza consultas desde la nube; ejecutar el script desde un PC. |
+| Revisar traducciones de Tatoeba usadas en ejercicios | 4 | Hoy marcadas como no revisadas. |
 | Diálogos ramificados | 5 | |
 | Cola de repaso unificada, exámenes, logros | 6 | |
 | Simulaciones del viaje | 7 | |
@@ -46,3 +49,4 @@ Ver sección 13.3 de [03-curriculo.md](03-curriculo.md): tax-free (cambio de sis
 - Creado repo `learnJP` con prototipo v1 de kana (movido a `legacy/`).
 - Construido hito 1 y la parte de kana del hito 2. 27 pruebas automáticas pasan; recorrido en navegador móvil y escritorio sin errores.
 - Primera clase en el chat: diagnóstico y sonidos del japonés (F0/F1-M01).
+- Agregada sección Escucha con 693 frases de japoneses nativos (Tatoeba): práctica con FSRS y explorador. Créditos en docs/CREDITOS-AUDIO.md.

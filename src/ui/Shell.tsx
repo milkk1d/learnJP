@@ -10,7 +10,7 @@ const GROUPS: { title: string; ids: string[] }[] = [
   { title: 'Tú', ids: ['estadisticas', 'configuracion'] },
 ];
 
-const MOBILE_TABS = ['inicio', 'hiragana', 'katakana', 'estadisticas'];
+const MOBILE_TABS = ['inicio', 'hiragana', 'katakana', 'escucha'];
 
 const byId = (id: string) => SECTIONS.find((s) => s.id === id)!;
 

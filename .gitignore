@@ -13,3 +13,7 @@ dev-dist/
 .claude/
 .env
 .env.*
+
+# Caché de descargas de audio
+.cache/
+*.part

@@ -31,6 +31,17 @@ export default defineConfig({
         globPatterns: ['**/*.{js,css,html,svg,png,woff2}'],
         runtimeCaching: [
           {
+            // Audios nativos: se guardan al escucharlos por primera vez y luego funcionan sin conexión.
+            urlPattern: /\/audio\/.*\.mp3$/i,
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'audio-nativo',
+              expiration: { maxEntries: 2000, maxAgeSeconds: 60 * 60 * 24 * 365 },
+              rangeRequests: true,
+              cacheableResponse: { statuses: [0, 200] },
+            },
+          },
+          {
             urlPattern: /^https:\/\/fonts\.(googleapis|gstatic)\.com\/.*/i,
             handler: 'CacheFirst',
             options: {

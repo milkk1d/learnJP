@@ -55,9 +55,9 @@ export const SECTIONS: Section[] = [
     plan: ['Moras, vocales largas, っ y ん', 'Grabar y comparar duración con el modelo', 'Reconocimiento de voz con aviso de sus límites (sin porcentajes inventados)'],
   },
   {
-    id: 'escucha', path: '/escucha', label: 'Escucha', glyph: '耳', hito: 4, status: 'planificado',
-    summary: 'Comprensión auditiva graduada y dictados.',
-    plan: ['Velocidad lenta → natural', 'Dictados de números, precios y andenes', 'Respuestas reales del personal, no solo tus frases'],
+    id: 'escucha', path: '/escucha', label: 'Escucha', glyph: '耳', hito: 4, status: 'parcial',
+    summary: 'Frases reales grabadas por japoneses nativos: escucha, entiende y repite.',
+    plan: ['Hecho: práctica "¿qué escuchaste?" y explorador con audio nativo (Tatoeba)', 'Pendiente: dictados de números, precios y andenes', 'Pendiente: velocidad graduada y respuestas del personal en contexto'],
   },
   {
     id: 'simulador', path: '/simulador', label: 'Simulador de viaje', glyph: '旅', hito: 7, status: 'planificado',

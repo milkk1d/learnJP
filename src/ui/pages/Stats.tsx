@@ -8,6 +8,7 @@ import { PageHeader, Stat } from '../components/ui';
 const DAYS = 14;
 
 function labelFor(itemId: string): string {
+  if (itemId.startsWith('tatoeba:')) return `frase #${itemId.slice(8)}`;
   return ALL_KANA.find((k) => k.id === itemId)?.kana ?? itemId;
 }
 

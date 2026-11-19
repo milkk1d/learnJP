@@ -94,6 +94,12 @@ La calificación FSRS sale de datos objetivos: fallo = *Again*, acierto lento (>
 - Alternativas documentadas, intercambiables por la interfaz `TtsProvider`: ElevenLabs (mejor calidad, de pago; descartado por ahora), VOICEVOX (motor japonés gratuito que corre en el PC; revisar la licencia de cada voz), servicios en la nube (Google/Azure).
 - Límite: el acento tonal de la voz del sistema puede no ser natural en palabras sueltas.
 
+**Audio nativo (grabaciones reales)** — implementado.
+- 693 frases de [Tatoeba](https://tatoeba.org) grabadas por usuarios con japonés nativo declarado y licencia libre (CC BY / CC BY-NC). Se incluyen como MP3 en `public/audio/tatoeba/` y se generan con `scripts/fetch_tatoeba_audio.py`.
+- El índice (`src/content/listening/tatoeba.json`) se carga bajo demanda en un bloque aparte para no hacer más lento el inicio.
+- Los audios no se precargan (≈ 10 MB): el service worker guarda cada uno la primera vez que se escucha, y desde ahí funciona sin conexión.
+- Créditos y licencias: [CREDITOS-AUDIO.md](CREDITOS-AUDIO.md).
+
 **Reconocimiento (STT)** — se implementa en el hito 4 con interfaz `SttProvider`.
 - Web Speech API `SpeechRecognition` (Chrome, Edge, Safari): gratis, pero **envía el audio a servidores de Google o Apple**. Se pedirá consentimiento explícito antes de usarlo.
 - Whisper local (whisper.cpp / faster-whisper en el PC): privado, requiere backend local; opción futura.
