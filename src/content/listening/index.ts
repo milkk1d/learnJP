@@ -7,6 +7,8 @@ export interface NativeSentence {
   id: string;
   jp: string;
   reading: string;
+  /** Romaji Hepburn generado automáticamente (scripts/add_romaji.ts). */
+  romaji?: string;
   es: string[];
   en: string[];
   audioId: string;

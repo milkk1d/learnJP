@@ -44,3 +44,42 @@ describe('banco de escucha', () => {
     expect(it.sourceUrl).toContain('tatoeba.org');
   });
 });
+
+import { kanaToRomaji, tokensToRomaji } from './romaji';
+
+describe('romaji Hepburn', () => {
+  it('convierte kana con vocales largas, っ y ん', () => {
+    expect(kanaToRomaji('トウキョウ')).toBe('tōkyō');
+    expect(kanaToRomaji('ガッコウ')).toBe('gakkō');
+    expect(kanaToRomaji('チョット')).toBe('chotto');
+    expect(kanaToRomaji('マッチャ')).toBe('matcha');
+    expect(kanaToRomaji('コーヒー')).toBe('kōhī');
+    expect(kanaToRomaji('センセイ')).toBe('sensei');
+    expect(kanaToRomaji('フンイキ')).toBe("fun'iki");
+    expect(kanaToRomaji('シンカンセン')).toBe('shinkansen');
+    expect(kanaToRomaji('おもう', { isVerb: true })).toBe('omou');
+  });
+
+  it('lee las partículas は, を, へ como wa, o, e', () => {
+    const t = (surface: string, reading: string, pos: string, posDetail1 = '') => ({ surface, reading, pos, posDetail1 });
+    expect(
+      tokensToRomaji([
+        t('すみません', 'スミマセン', '感動詞'),
+        t('、', '、', '記号'),
+        t('駅', 'エキ', '名詞'),
+        t('は', 'ハ', '助詞', '係助詞'),
+        t('どこ', 'ドコ', '名詞'),
+        t('です', 'デス', '助動詞'),
+        t('か', 'カ', '助詞', '副助詞／並立助詞／終助詞'),
+        t('。', '。', '記号'),
+      ]),
+    ).toBe('Sumimasen, eki wa doko desu ka.');
+    expect(tokensToRomaji([t('水', 'ミズ', '名詞'), t('を', 'ヲ', '助詞', '格助詞'), t('ください', 'クダサイ', '動詞', '非自立')])).toBe('Mizu o kudasai');
+  });
+
+  it('une っ entre palabras y los auxiliares al verbo', () => {
+    const t = (surface: string, reading: string, pos: string, posDetail1 = '') => ({ surface, reading, pos, posDetail1 });
+    expect(tokensToRomaji([t('分かっ', 'ワカッ', '動詞'), t('て', 'テ', '助詞', '接続助詞'), t('ます', 'マス', '助動詞')])).toBe('Wakattemasu');
+    expect(tokensToRomaji([t('行き', 'イキ', '動詞'), t('まし', 'マシ', '助動詞'), t('た', 'タ', '助動詞')])).toBe('Ikimashita');
+  });
+});

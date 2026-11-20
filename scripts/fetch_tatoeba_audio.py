@@ -9,7 +9,9 @@ Qué hace:
   3. Descarga los MP3 a public/audio/tatoeba/ y escribe src/content/listening/tatoeba.json
      con texto, lectura, traducciones, autor, licencia y enlace a la fuente.
 
-Uso:  python3 scripts/fetch_tatoeba_audio.py [--max N]
+Uso:  npm run content:audio   (descarga + romaji)
+      python3 scripts/fetch_tatoeba_audio.py [--max N] [--no-download]
+Después de este script hay que correr scripts/add_romaji.ts (lo hace npm run content:audio).
 Requiere acceso a downloads.tatoeba.org y tatoeba.org. Es idempotente: no vuelve a bajar
 audios que ya existen.
 """

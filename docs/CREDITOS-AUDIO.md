@@ -17,8 +17,9 @@ Nihongo Quest es un proyecto educativo **no comercial**. Usa grabaciones libres 
 - **Textos de las frases:** [CC BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/), de sus autores en Tatoeba. Cada frase enlaza a su página (`tatoeba.org/sentences/show/<id>`), donde figura el autor.
 - **Traducciones al español/inglés:** de voluntarios de Tatoeba (CC BY 2.0 FR). **No revisadas** por Nihongo Quest; algunas usan español de España.
 - **Lecturas (furigana):** transcripciones automáticas de Tatoeba; pueden tener errores puntuales.
+- **Romaji:** generado por Nihongo Quest (`scripts/add_romaji.ts`) con el analizador kuromoji y las lecturas de Tatoeba; Hepburn modificado con macrones y partículas は/を/へ como wa/o/e. Automático: puede tener errores puntuales.
 - **Cambios:** los MP3 se distribuyen sin modificar. La app permite reproducirlos más lento (cambio de velocidad en el navegador, no del archivo).
-- **Regenerar:** `python3 scripts/fetch_tatoeba_audio.py` (archivos en `public/audio/tatoeba/`, índice en `src/content/listening/tatoeba.json`).
+- **Regenerar:** `npm run content:audio` (archivos en `public/audio/tatoeba/`, índice en `src/content/listening/tatoeba.json`).
 
 ## Fuentes evaluadas y no usadas (por ahora)
 

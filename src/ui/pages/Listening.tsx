@@ -86,7 +86,7 @@ export function Listening() {
       <p className="mt-8 text-xs text-muted">
         Audios y frases de <a className="underline" href="https://tatoeba.org" target="_blank" rel="noreferrer">Tatoeba</a>, grabados por usuarios que declaran japonés
         nativo, con licencias CC BY / CC BY-NC. Las traducciones son de voluntarios de Tatoeba y no están revisadas por Nihongo Quest; los temas se detectan
-        automáticamente. Las lecturas (furigana) son automáticas y pueden tener errores puntuales.
+        automáticamente. Las lecturas (furigana) y el romaji son automáticos y pueden tener errores puntuales. El romaji se puede apagar en Configuración.
       </p>
     </>
   );
@@ -120,6 +120,7 @@ function Explore({ items }: { items: ListeningItem[] }) {
               <div className="min-w-0 flex-1">
                 <Furigana markup={it.reading} fallback={it.jp} show={settings.showFurigana} className="text-xl leading-[2.1]" />
                 {it.reading && <div className="font-jp text-sm text-muted">{kanaReading(it.reading)}</div>}
+                {settings.showRomaji && it.romaji && <div className="mt-0.5 font-semibold italic text-ink/80">{it.romaji}</div>}
                 {settings.showTranslation && <div className="mt-1">{it.es[0] ?? <span className="text-muted">{it.en[0]} (inglés)</span>}</div>}
               </div>
               <PlayButtons url={it.audioUrl} onError={setMsg} />
@@ -347,6 +348,7 @@ function Quiz({ pool, distractors, onFinish }: { pool: ListeningItem[]; distract
             <div className={`mb-2 font-extrabold ${answered.correct ? 'text-good' : 'text-bad'}`}>{answered.correct ? 'Bien entendido.' : 'Esta vez no.'}</div>
             <Furigana markup={it.reading} fallback={it.jp} show={settings.showFurigana} className="text-xl leading-[2.1]" />
             {it.reading && <div className="font-jp text-sm text-muted">{kanaReading(it.reading)}</div>}
+            {settings.showRomaji && it.romaji && <div className="mt-1 font-semibold italic text-ink/80">{it.romaji}</div>}
             <div className="mt-1">{it.es[0]}</div>
             {!answered.correct && <p className="mt-2 text-sm text-muted">Escúchala de nuevo leyendo el texto: fíjate qué parte no reconociste.</p>}
             <div className="mt-3 flex flex-wrap items-center justify-between gap-2">
