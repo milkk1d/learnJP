@@ -10,6 +10,7 @@ import { mastery, type Mastery, type Skill, type SrsCard } from '../../core/srs'
 import { tts } from '../../speech/tts';
 import { useSettings, useStudyTimer } from '../hooks';
 import { PageHeader, Segmented } from '../components/ui';
+import { VoiceWarning } from '../components/VoiceWarning';
 
 const MASTERY_BAR: Record<Mastery, string> = {
   nuevo: 'bg-line',
@@ -92,6 +93,7 @@ export function KanaPage({ script }: { script: Script }) {
           />
         }
       />
+      <VoiceWarning />
       {tab === 'tabla' ? (
         <KanaTable script={script} cards={recognize} onTap={say} />
       ) : (
@@ -417,7 +419,8 @@ function Quiz({
       mistakeTag: correct ? undefined : mistakeTag(q.item, chosen, given, mode.skill),
     });
     if (autoSpeak && mode.id !== 'audio-choice') say(q.item.kana);
-    if (correct) timer.current = window.setTimeout(next, 1000);
+    // En "audio → kana" el siguiente audio debe nacer de un toque (iPhone bloquea la voz sin toque).
+    if (correct && mode.id !== 'audio-choice') timer.current = window.setTimeout(next, 1000);
     else window.setTimeout(() => nextRef.current?.focus(), 0);
   };
 
@@ -533,9 +536,9 @@ function Quiz({
               ? `Correcto: ${item.kana} = ${item.romaji}`
               : `${answered.given ? `Respondiste «${answered.given}». ` : ''}Es ${item.kana} = ${item.accepted.join(' / ')}`)}
         </div>
-        {answered && !answered.correct && (
+        {answered && (!answered.correct || mode.id === 'audio-choice') && (
           <>
-            {lookalikesOf(item.kana).length > 0 && (
+            {!answered.correct && lookalikesOf(item.kana).length > 0 && (
               <p className="mt-1 text-sm text-muted">
                 Ojo: {item.kana} se parece a {lookalikesOf(item.kana).join(', ')}. Fíjate en la diferencia antes de seguir.
               </p>
